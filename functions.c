@@ -6,4 +6,5 @@ void call_function() {
   printf("Hello sgn!\n");
   printf("welcome to c program!\n");
   printf("what do you know!\n");
+  printf("How are you\n");
 }
